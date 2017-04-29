@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\.android\build-cache\410047a1b1729158ddfc3fc8e2171df32f42f29b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_514435e18a2083ee369bf620b1f5270f7ff0dd86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\.android\build-cache\86f016df1a0a5a07a7de4d560017fb87e9798a03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42d9d7597e5746c91065a0301f8556492d48ee8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\.android\build-cache\d4dba7df05b030e07016cd8bb028a031c476e402\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfebe87e1d5fd95ab079bb3ff78b44d74e54205f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\.android\build-cache\cbadf8a54536bdc88ab515c7f68f7ff6b098fc24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45fe4139177f5edcb56d23b57e9ec1db72a6ed8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_265af7dcab1604b7df770236fdf58157c506ffa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\.android\build-cache\4bb22b21ae849ff63feb2d2b005d5b510c15c222\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3278f48e40a7263f9135ceff15e7162746d6e42a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_eeab71e665870f4f65c618f9ee6ca4f53fff39c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\.android\build-cache\58b001f708b370978328abbaf6b12dbef77b1900\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ebafcc71bd3d2fdf3b80ccf5868c0eb10ce1835f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9a9319679c94e270a01ccb5e0985c85afb3db009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\.android\build-cache\47323725c567e5bdc606f28fde8a739ec851ecbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79573c53338c4bb040634ec604f0cb469eb80bdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="90d54afdacfab6107f22876ab885abd923ce17ec">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8f8a8c49c2599be556b1b15ac99479208dce24b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\.android\build-cache\18135a1e6925108576572f9e82b4bbe49ec85756\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c97ecd97c0afaa5bdf3be95ae050c54dfc82da3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\.android\build-cache\217fff17e062c01f8f161447a05ff9b8b6ea4cc7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e43faa959690d9d52270365bff5c7bdb75e77141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shiva\.android\build-cache\c0d54338d93a41f6ba64fdc81614bf78ee92dec7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\ProjectsAndroid\NumberToWords\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ad67afcd3624aed373eb57ed0fd815aafda9643\classes.dex" />
+    </item>
+
+</items>
